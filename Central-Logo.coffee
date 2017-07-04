@@ -1,3 +1,9 @@
+{
+  "name": "Central-logo",
+  "description": "displays a centered pic on desktop",
+  "author": "aykot",
+  "email": "aykotx@gmail.com"
+}
 refreshFrequency: 10000000
 style: """
 position: absolute;
